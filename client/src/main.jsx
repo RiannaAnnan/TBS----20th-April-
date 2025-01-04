@@ -21,7 +21,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 // The variable "userMessage" stores the message that will be created by the user
 let userMessage = null;
 // The API Key to access my account on OpenAI
-const API_KEY = "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";
 const inputInitHeight = chatInput.scrollHeight;
 
 // This method creates a chat list element <li> which will store the message is a list
